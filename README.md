@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=25&pause=1000&color=white&background=075BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desafio+GitHub+DIO+em+casal!)](https://git.io/typing-svg)
-</p>
+</div>
 
 ![TI](Program.gif)
 
