@@ -15,13 +15,23 @@
 ------- 
 
 <div align="center">
- <p><strong>Entre em contato comigo</strong></p>
+ <p><strong>Entre em contato com Paulo</strong></p>
  </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulofrazão1999/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
   </div>
 
+-------
+
+<div align="center">
+ <p><strong>Entre em contato com Laiz</strong></p>
+ </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/la%C3%ADz-nascimento-de-oliveira-ba361a1bb/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+  </div>
+  
 -------
 
 <div align="center">
