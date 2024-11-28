@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=25&pause=1000&color=white&background=075BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desafio+GitHub+DIO+em+casal!)](https://git.io/typing-svg)
-</p>
+</div>
 
 ![TI](Program.gif)
 
@@ -9,8 +9,9 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Olá! Somos o Paulo e a Laiz, somos técnicos e graduandos em Análise e Desenvolvimento de Sistemas. <br />
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />  Em uma constante busca por conhecimento.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />  Meu objetivo é me tornar um gestor de TI. <br />
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />  Meu objetivo é me tornar uma Desenvolvedora Front-End, com grandes experiências profissionais e pessoais na área da programação FINAL<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />  Meu objetivo é me tornar um gestor de TI, desenvolvendo equipes e soluções tecnologicas. <br />
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />  Meu objetivo é me tornar uma Desenvolvedora Front-End, com grandes experiências profissionais e pessoais na área da programação. <br />
+>>>>>>
 
 ------- 
 
